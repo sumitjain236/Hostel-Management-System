@@ -1,0 +1,134 @@
+CSS:
+
+#main{
+    height: 4em;
+    padding-left: 1em;
+    padding-top: 0.3em;
+    font-family: 'Mitr', sans-serif;
+    opacity: 0.9;
+    font-weight: bolder;
+    color: white;
+    background-color: cornflowerblue;
+}
+#box{
+    height: 55em;
+    border-style: double;
+    border-color: black;
+}
+.form{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 4em;
+}
+#reg{
+    padding: 1em 54em 1em 1em;
+    margin-top: 2em;
+    margin-left: 2em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+.form{
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 3em;
+}
+#name{
+    padding: 1.1em 54em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 5em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#mname{
+    padding: 1.1em 54em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 4em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#lname{
+    padding: 1.1em 54em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 5em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#phone{
+    padding: 1.1em 54em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 2em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#email{
+    padding: 1.1em 54.2em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 6em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#password{
+    padding: 1.1em 54.5em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 5em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#fpass{
+    padding: 1.1em 55em 1.1em 1em;
+    margin-top: 2em;
+    margin-left: 1em;
+    opacity: 0.3;
+    border-top-right-radius: 0.9em;
+    border-top-left-radius: 0.9em;
+    border-bottom-right-radius: 0.9em;
+    border-bottom-left-radius: 0.9em;
+}
+#cancel{
+    padding: 1.2em 1.2em 1.2em 1.2em;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    font-weight: bold;
+    margin-left: 35em;
+    margin-top: 2em;
+}
+#register{
+    padding: 1.2em 1.2em 1.2em 1.2em;
+    background-color: blue;
+    color: white;
+    opacity: 0.8;
+    font-weight: bold;
+    margin-left: 2em;
+}
+button:hover{
+    transform: scale(1.1);
+}
+#fff{
+    padding-left: 2.5em;
+    padding-right: 2em;
+    padding-top: 1em;
+}
